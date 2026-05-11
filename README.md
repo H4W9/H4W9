@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I like tinkering with ESP32s and Pentesting hardware.
 <!--
 **H4W9/H4W9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I also heve a bunch projects freely available 
+on [MakerWorld/@H4W9](https://makerworld.com/en/@WH94)
+Check them out!
+
+If you like what I do so much that you want 
+to support me, this is the place to do so! 
+And thanks! :D
+[PayPal](https://www.paypal.com/paypalme/wadehofer94)
