@@ -19,6 +19,8 @@ I also heve a bunch projects freely available
 on [MakerWorld/@H4W9](https://makerworld.com/en/@WH94)
 Check them out!
 
+I mostly create branches from others' work to contribute or customize...
+
 If you like what I do so much that you want 
 to support me, this is the place to do so! 
 And thanks! :D
